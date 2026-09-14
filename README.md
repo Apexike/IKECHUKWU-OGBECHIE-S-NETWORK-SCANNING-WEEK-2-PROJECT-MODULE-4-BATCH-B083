@@ -99,14 +99,11 @@ PHOTO SAMPLES:
 <img width="1920" height="923" alt="topography" src="https://github.com/user-attachments/assets/c570a68d-5f0d-4ad8-87e6-cd8bae570030" />
 
 LINKEDIN:
-www.linkedin.com/in/ikechukwu-ogbechie-286380239
+ www.linkedin.com/in/ikechukwu-ogbechie-286380239
+
+ REPORT:
+
+ <img width="1206" height="1079" alt="e8aa303b-4bb1-4d2b-8c88-50ad0b811834" src="https://github.com/user-attachments/assets/6afe9c68-1265-45d4-bb6d-d69c14e2d05a" />
 
 
 
-
-
-
-  
-
-Sources it queries:
-Search engines (Google, Bing), DNS records, and services like Shodan, VirusTotal, Hunter.io, and others.
