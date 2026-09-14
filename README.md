@@ -99,7 +99,7 @@ PHOTO SAMPLES:
 <img width="1920" height="923" alt="topography" src="https://github.com/user-attachments/assets/c570a68d-5f0d-4ad8-87e6-cd8bae570030" />
 
 LINKEDIN:
- www.linkedin.com/in/ikechukwu-ogbechie-286380239
+https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BZhyUd0viTgyaUoh80BVMNw%3D%3D
 
  REPORT:
 
